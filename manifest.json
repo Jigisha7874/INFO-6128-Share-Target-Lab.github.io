@@ -2,6 +2,7 @@
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
   "start_url": "https://jigisha7874.github.io/INFO-6128-Share-Target-Lab.github.io/",
+  "scope": "https://jigisha7874.github.io/INFO-6128-Share-Target-Lab.github.io/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
