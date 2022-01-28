@@ -3,5 +3,5 @@ window.addEventListener('DOMContentLoaded', () => {
   // searchParams.get() will properly handle decoding the values.
   document.getElementById('title').value = "This share target";
   document.getElementById('text').value = "This app perform sharing";
-  document.getElementById('url').value = "This share target";
+  document.getElementById('url').value = "https://timesofindia.indiatimes.com/";
 });
